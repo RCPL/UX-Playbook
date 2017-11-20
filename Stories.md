@@ -1,6 +1,6 @@
-3. Stories
+#3. Stories
 
-3.1 Job Stories
+##3.1 Job Stories
 
 One can imagine a job story like a montage scene of a movie that follows a process.
 a package leaves one person's desk ... and arrives on another
@@ -10,4 +10,4 @@ What these examples—and all job stories—have in common is that a lot happens
 
 The point here is that completing a job means following the details, the nuances, the people, places, and tools involved. Most projects tend to have a handful of job stories, each which include plenty of user stories, often with overlap.
 
-3.2 User Stories
+##3.2 User Stories
