@@ -1,3 +1,6 @@
+---
+---
+
 Discovering what users want is a strange task. Who's the user anyway? Often, you are a user just as much as anyone else, and often you'll feel like you already have solutions in mind. The UX Discovery Process outlined here was designed not to supress those ideas, but to make sure that they are supplemented well with customer input. Likewise User Experience Design is often overly focused on customers, but this guide is designed to ensure that content creators are tailored to just as much as content consumers.
 
 "A list of frequently asked questions is a list of things wrong with your web site."
